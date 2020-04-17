@@ -1,0 +1,78 @@
+====== Privacy Policy ======
+
+This page explains how and when your personal data is collected, processed and used when accessing wiki.river2river-project.eu or any of its subdomains. Basis of all processing are the terms of the [[https://ec.europa.eu/commission/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules_en|General Data Protection Regulation]] (GDPR).
+
+In the following text we use
+
+  * "we" for the people managing the website or in GDPR speak: the controller
+  * "you" for the users accessing the website or in GDPR speak: the data subject
+
+We're not doing anything different than any other website on the planet, but it's only fair we explain it to you.
+
+This text was written to be short and easy to understand by someone who is not a lawyer. If you feel something is not as clear as it should be, please help to improve it (it's a wiki after all).
+
+===== Cookies =====
+
+Cookies are small text files stored by us inside your browser. This allows us to give your browser a short- and long-term memory.
+
+In general, all cookies we set are necessary to provide functionality on our sites. Details on which cookies are set by River2River wiki are available at [[cookies|Cookies]].
+
+Some of the third party services we use (see below) may also set their own cookies. We explain those further down. Your browser has settings to control which cookies it accepts and for how long it stores them. [[https://www.whatismybrowser.com/guides/how-to-enable-cookies/|How to enable cookies.]]
+
+===== Server Logs =====
+
+The web server hosting our site will log each page access. This log will also contain some personal data:
+
+  * your IP address
+  * the referrer (where you came from)
+  * your browser identification
+
+This information is necessary for legal reasons and to analyse and prevent abuse. This allows us to keep users away who try to crash our server or to have necessary evidence in case of illegal or criminal activity.
+
+Our server logs are automatically deleted after 7 days. We will only keep log files longer when they are needed as evidence during an investigation.
+
+===== Change Logs =====
+
+When you edit a page in the wiki, we log the following personal data
+
+  * username
+  * IP address
+
+This allows us to easily block users who vandalize the wiki.
+
+===== User Profiles =====
+
+When you opt to register for an account you need to provide the following data:
+
+  * username
+  * email address
+  * password
+  * real name
+
+When you want to delete your account, you can do so from your profile settings.
+
+
+===== Third Party Processing =====
+
+
+==== Google Analytics ====
+
+Google Analytics is a popular free tool to track how users use a web page. It tracks, for example, where users came from, which pages they looked at and how long they stayed on the site.
+
+This information is useful to us to understand our users better and improve the service.
+
+We use Google Analytics with the 'anonymizeIP' option. That means Google will truncate your IP address before processing it. This way, no personal identifiable information is sent to Google Analytics.
+
+Google's servers do see your full IP address, though, because the analytics script is downloaded directly from them. They promise not to use that though -- we trust them. 
+
+Google Analytics also uses a cookie to track if you visit a website more often.
+
+You can easily opt out of being tracked at all using their [[https://tools.google.com/dlpage/gaoptout?hl=en|Browser Plugin]].
+
+===== Your Rights =====
+
+The GDPR guarantees your right to information about your personal data, as well as your rights to rectification, erasure, and portability (e.g. for transferring data). Furthermore, you have a right to restriction and objection of processing your data.
+
+Feel free to write an email to <info@river2river-project.eu>, so that we can work out how we can help you.
+
+Of course, you also have a right to lodge a complaint with the supervisory data protection authority.

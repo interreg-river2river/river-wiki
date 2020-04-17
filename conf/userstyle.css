@@ -1,0 +1,47 @@
+.dokuwiki div.plugin_translation {
+	float: none;
+	font-size: 1em;
+	padding: 7px 2px 7px;
+	margin: 5px 0 1em 0;
+    text-align: left;
+    background-color: white;
+}
+
+.dokuwiki #dokuwiki__aside div.plugin_translation select, .dokuwiki #dokuwiki__aside div.plugin_translation input {
+	border: 1px solid #ccc;
+    background-color: #fff;
+}
+.river {
+	background: url(/lib/images/river2.png) top left no-repeat;
+	height: 301px;
+    left: 0px;
+    position: absolute;
+    top: -80px;
+    width: 160px;
+    z-index: -1;
+}
+
+#plugin__approve {
+	top: 0px;
+	font-size: .875em;
+	min-height: initial;
+}
+
+
+@media (max-width: 480px) {
+	.river {
+		left: -24px;
+	}
+
+}
+
+@media (max-width: 800px) {
+	.river {
+		top: -25px;
+	}
+
+	#plugin__approve {
+        position:relative;
+        margin-bottom: 10px;
+    }
+ }

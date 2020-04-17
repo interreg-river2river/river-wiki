@@ -1,0 +1,27 @@
+====== Cookies ======
+
+**River2River wiki** sets **three cookies**.
+
+===== DW<hash> =====
+
+Used for authentication after login. This holds the necessary data to (re)login a previously authenticated user.
+
+  * Importance: **necessary** for anyone who needs to log in
+  * Typical content: encrypted username and password
+  * Expires: in a year ((if "Remember me" was checked when logging in, otherwise: at the end of the browser session))
+
+===== DOKU_PREFS =====
+
+Used for remembering helpful user preferences, like the size of the editor textarea.
+
+  * Importance: **functional**
+  * Typical content: name/value pairs in plain text
+  * Expires: in a year
+
+===== DokuWiki =====
+
+The standard PHP session identifier. Used to hold temporary data and to avoid CSRF attacks.
+
+  * Importance: **necessary**
+  * Typical content: random ID
+  * Expires: at the end of the browser session
